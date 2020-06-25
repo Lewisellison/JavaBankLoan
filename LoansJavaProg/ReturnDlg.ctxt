@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ReturnDlg
+comment1.params=p
+comment1.target=ReturnDlg(MainMenu)
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ Actions\:\ on\ click\ of\ 'Submit',\ find\ loan\ record\ and\ delete\ from\ database;\r\n\ \ \ \ \ \ \ \ \ \ on\ click\ of\ 'Hide',\ hide\ the\ dialogue\ window.\r\n
+comment3.params=
+comment3.target=void\ processReturn()
+comment3.text=\r\n\ Does\ the\ actual\ work\ of\ finding\ a\ loan\ record\ and\ deleting\ it;\ \r\n\ Also\ updates\ 'borrowedBy'\ field\ of\ Item.\r\n
+numComments=4

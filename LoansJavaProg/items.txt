@@ -1,0 +1,15 @@
+000001# Compiler Construction#            K C Louden#
+000002# Neural Networks#                  Simon Hayken#
+000003# Bitter Java#                      Bruce A Tate#
+000004# The C Programming Language#       B W Kernighan and D M Ritchie#
+000005# Programming Python#               M Lutz#
+000006# The Nature of Code#               D Shiffman#
+000007# Java Precisely#                   Peter Sestoft#
+000008# The Unix Programming Environment# B W Kernighan and Rob Pike#
+000009# The Practice of Programming#      B W Kernighan and Rob Pike#
+000010# The C++ Programming Language#     B Stroustrup#
+000011# Concurrency#                      Magee and Kramer#
+000012# Real-time UML#                    B P Douglass#
+000013# Machine Learning#                 K P Murphy#
+000014# Real-world Haskell#               B O'Sullivan et al#
+000015# Seven Languages in Seven Weeks#   Bruce A Tate#

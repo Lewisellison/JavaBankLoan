@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BorrowDlg
+comment1.params=p
+comment1.target=BorrowDlg(MainMenu)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BorrowDlg\r\n
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ On\ click\ of\ button\ "Hide"\ the\ window\ is\ made\ invisible\r\n\ On\ click\ of\ button\ "Submit"\ the\ input\ is\ checked\ to\ see\ if\ valid,\r\n\ if\ the\ the\ item\ is\ valid\ it\ is\ lent\ and\ a\ record\ of\ loan\ transaction\ is\ made.\r\n
+comment3.params=
+comment3.target=void\ processBorrow()
+numComments=4

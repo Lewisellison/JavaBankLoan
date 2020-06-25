@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Item\r\n\ Encapsulates\ items\ in\ the\ library\ collection\r\n
+comment1.params=iID\ ttl\ aut
+comment1.target=Item(java.lang.Integer,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ Item\ with\ given\ item\ ID,\ title,\ author\r\n
+comment2.params=
+comment2.target=java.lang.Integer\ getItemID()
+comment3.params=
+comment3.target=Borrower\ getBorrowedBy()
+comment4.params=b
+comment4.target=void\ setBorrowedBy(Borrower)
+comment5.params=
+comment5.target=void\ clearBorrowedBy()
+comment6.params=
+comment6.target=java.lang.String\ getTitle()
+comment7.params=
+comment7.target=java.lang.String\ getAuthor()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=id\ ttl\ aut
+comment9.target=boolean\ dataValid(int,\ java.lang.String,\ java.lang.String)
+comment9.text=\r\n\ Test\ validity\ of\ Item\ data\:\r\n\ \ \ title,\ author\ are\ strings\ of\ length\ at\ least\ 1\r\n\ \ \ ID\ is\ not\ negative.\r\n
+numComments=10
